@@ -1,0 +1,24 @@
+{
+    "name": "Solana Hidden ",
+    "description": "Hidden description",
+    "image": "https://raw.githubusercontent.com/ArmanKirakosyan96/Solana-Reveal-NFT-test/main/0.png",
+    "attributes": [
+    ],
+    "symbol": "FA",
+    "seller_fee_basis_points": 1000,
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/ArmanKirakosyan96/Solana-Reveal-NFT-test/main/0.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "CJURxYmWTgjQmdGK8BiaRooD2K8vSQsAmXL6eviARnyG",
+                "share": 100
+            }
+        ]
+    }
+}
